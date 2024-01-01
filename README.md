@@ -1,0 +1,2 @@
+# scammmateo
+All scams welcome!
