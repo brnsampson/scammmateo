@@ -3,7 +3,7 @@ testdata_dir = "testdata"
 tmp_dir = "tmp"
 
 [build]
-  args_bin = ["serve", "--config ./etc/config.toml"]
+  args_bin = ["serve", "--dev"]
   bin = "./tmp/main"
   cmd = "tailwindcss -i css/missing.css -o static/final.css; go build -o ./tmp/main ."
   delay = 1000

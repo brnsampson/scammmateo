@@ -1,1 +1,0 @@
-Example Scam Goes Here!
